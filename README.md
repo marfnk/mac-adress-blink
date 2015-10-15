@@ -6,8 +6,6 @@ This project contains a Ruby script that performs [ARP-Scans](http://www.nta-mon
 
 You can specify mac adresses that will be surveilled. If this devices logs in, a [blink(1)](https://blink1.thingm.com/) blinks in a specified color.
 
-https://youtu.be/
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=bEWEiN0M0y8" target="_blank"><img src="http://img.youtube.com/vi/bEWEiN0M0y8/0.jpg" 
 alt="YouTube Video" width="240" height="180" border="1" /></a>
 
